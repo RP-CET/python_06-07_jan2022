@@ -1,4 +1,4 @@
-# Introductory Programming Using Python (6 and 7 Jan 2022)
+# Introductory Programming Using Python (6 and 7 Jan 2022) https://bit.ly/py-jan22
 
 Course materials are contained in this repository
 
